@@ -1,0 +1,8 @@
+import os
+
+
+
+ALERT_LOG = "./logs/alerts.json"
+
+PORT_SCAN_THRESHOLD = 20
+TRAFFIC_SPIKE_THRESHOLD = 10000000

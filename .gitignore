@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Runtime / outputs
+zeek-monitor/logs/
+*.db
+*.pcap
+*.pcapng
+
+# React
+node_modules/
+build/
+
+# OS
+.DS_Store# Python
+__pycache__/
+venv/
+.env
+
+# Zeek / analysis outputs
+analysis/
+uploaded_pcaps/
+*.pcap
+*.pcapng
+*.log
+
+# React
+node_modules/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# runtime outputs
+zeek-monitor/logs/
+*.db
